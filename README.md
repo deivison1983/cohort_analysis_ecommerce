@@ -1,4 +1,4 @@
-# Projeto Análise de Cohort UK Ecommerce
+# Projeto Análise de Cohort UK E-commerce
 
 <img src="imagens_read/clientes_1.png">
 
